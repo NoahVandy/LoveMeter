@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Love Meter</string>
+    <string name="yournamehint">Your name</string>
+    <string name="yournamelabel">Your Name</string>
+    <string name="othernamelabel">Other Person\'s Name</string>
+    <string name="othernamehint">Other Person\'s Name</string>
+    <string name="computebutton">Compute</string>
+</resources>
